@@ -8,10 +8,15 @@
 
 <div>
   <a href="https://github.com/Valdeci97">
-  <img
-       height="180px"
-       src="https://github-readme-stats.vercel.app/api?username=Valdeci97&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeci97&layout=compact&langs_count=16&theme=chartreuse-dark" />
+  <div>
+    <img
+         height="180px"
+         width="400px"
+        src="https://github-readme-stats.vercel.app/api?username=Valdeci97&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" />
+    <img
+         height="180px"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeci97&layout=compact&langs_count=16&theme=chartreuse-dark" width="400px" />
+  </div>
 </div>
 
 ##
