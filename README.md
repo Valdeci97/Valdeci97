@@ -33,7 +33,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/valdeci97" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/valdeci97" target="_blank"><img src"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:moura97.valdeci@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/valdeci97" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="mailto:moura97.valdeci@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a>
 </div>
