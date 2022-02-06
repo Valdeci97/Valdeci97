@@ -4,11 +4,6 @@
 I'm Brazilian and a full-stack development student at [Trybe](https://www.betrybe.com/). Numbers and technology are my passion simce always, in constant learning i'm currently working on my own projects.
 
 ## Tecnologies <img src="https://img.icons8.com/ios-filled/50/000000/under-construction.png" />
-What I use to code
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" height="60px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60px" />
-</div>
 
 Front-end
 <div>
