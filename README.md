@@ -1,7 +1,7 @@
 # Hey, I'm Valdeci de Moura. How you doing?
 
 ## About me
-I'm Brazilian and a full-stack development student at [Trybe](https://www.betrybe.com/). Numbers and technology are my passion simce always, in constant learning i'm currently working on my own projects.
+I'm Brazilian and a full-stack development student at [Trybe](https://www.betrybe.com/). Numbers and technology are my passion since always, in constant learning i'm currently working on my own projects.
 
 ## Tecnologies <img src="https://img.icons8.com/ios-filled/50/000000/under-construction.png" />
 
