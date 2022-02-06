@@ -1,10 +1,52 @@
-### Hi there 👋
+# Hey, I'm Valdeci de Moura. How you doing?
 
-- 🔭 I’m currently working on my own projects and skills about javascript web development;
-- 🌱 I’m currently learning Java by myself and back-end fundamentals at Trybe;
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
+## About me
+I'm Brazilian and a full-stack development student at [Trybe](https://www.betrybe.com/). Numbers and technology are my passion simce always, in constant learning i'm currently working on my own projects.
+
+## Tecnologies <img src="https://img.icons8.com/ios-filled/50/000000/under-construction.png" />
+What I use to code
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" height="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60px" />
+</div>
+
+Front-end
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50px" />
+</div>
+
+Back-end
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60px" />
+</div>
+
+## I'm Learning 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" />
+</div>
+
+
+## Social media
+
+<div>
+  <a href="https://www.linkedin.com/in/valdeci97" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="mailto:moura97.valdeci@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a>
+</div>
+
+##
 
 <div>
   <a href="https://github.com/Valdeci97">
@@ -20,21 +62,3 @@
   </div>
 </div>
 
-##
-
-## Tecnologias
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" />
-</div>
-
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/valdeci97" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="mailto:moura97.valdeci@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-  <a><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a>
-</div>
