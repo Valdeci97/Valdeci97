@@ -1,29 +1,32 @@
 # Hey, I'm Valdeci de Moura. How you doing?
 
-## About me
+## <p align="center">About me</p>
 I'm Brazilian and a full-stack development student at [Trybe](https://www.betrybe.com/). Numbers and technology are my passion since always, in constant learning i'm currently working on my own projects.
 
-## Tecnologies <img src="https://img.icons8.com/ios-filled/50/000000/under-construction.png" />
+## <p align="center">Tecnologies</p>
 
-Front-end
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50px"width="40px" width="40px" />
+<p align="center">Front-end</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="70px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="70px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="70px" />
 </div>
 
-Back-end
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="40px" />
+<p align="center">Back-end</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="80px" />
 </div>
 
-## I'm Learning 
-<div>
+##
+
+## <p align="center">I'm Learning</p>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50px" width="40px" />
@@ -31,9 +34,9 @@ Back-end
 </div>
 
 
-## Social media
+## <p align="center">Social media</p>
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/valdeci97" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:moura97.valdeci@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
   <a><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a>
@@ -41,7 +44,7 @@ Back-end
 
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/Valdeci97">
   <div>
     <img
