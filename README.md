@@ -1,9 +1,10 @@
 # Hey, I'm Valdeci de Moura. How you doing?
 
-## <p align="center">About me</p>
+<p align="center">About me</p>
 I'm Brazilian and a full-stack development student at [Trybe](https://www.betrybe.com/). Numbers and technology are my passion since always, in constant learning i'm currently working on my own projects.
 
-## <p align="center">Tecnologies</p>
+##
+<p align="center">Tecnologies</p>
 
 <p align="center">Front-end</p>
 <div align="center">
@@ -25,7 +26,7 @@ I'm Brazilian and a full-stack development student at [Trybe](https://www.betryb
 
 ##
 
-## <p align="center">I'm Learning</p>
+<p align="center">I'm Learning</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="40px" />
@@ -33,8 +34,9 @@ I'm Brazilian and a full-stack development student at [Trybe](https://www.betryb
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px" width="40px" />
 </div>
 
+## 
 
-## <p align="center">Social media</p>
+<p align="center">Social media</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/valdeci97" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
