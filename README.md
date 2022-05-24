@@ -1,6 +1,7 @@
 # Hey, I'm Valdeci de Moura. How you doing?
 
 <p align="center">About me</p>
+
 I'm Brazilian and a full-stack development student at [Trybe](https://www.betrybe.com/). Numbers and technology are my passion since always, in constant learning i'm currently working on my own projects.
 
 ##
