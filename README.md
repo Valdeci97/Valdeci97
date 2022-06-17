@@ -53,7 +53,7 @@ I'm Brazilian and a full-stack development student at [Trybe](https://www.betryb
     <img
         height="150px"
         width="45%"
-        src="https://github-readme-stats.vercel.app/api?username=Valdeci97&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" />
+        src="https://github-readme-stats.vercel.app/api?username=Valdeci97&show_icons=true&include_all_commits=false&count_private=true&theme=chartreuse-dark" />
     <img
         height="150px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeci97&layout=compact&langs_count=16&theme=chartreuse-dark"
