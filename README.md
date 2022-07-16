@@ -100,6 +100,6 @@ Main tecnologies
     <img
         height="150px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeci97&layout=compact&langs_count=16&theme=chartreuse-dark"
-        width="45%" />
+        width="50%" />
   </div>
 </div>
