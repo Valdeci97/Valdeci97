@@ -29,6 +29,7 @@ Principais Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=green)
 ![Git](https://img.shields.io/badge/GIT-eeeeee?style=for-the-badge&logo=git&logoColor=brown)
+![Express js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000)
 
 <details>
 <summary>Outras tecnologias e feramentas</summary>
@@ -71,6 +72,7 @@ Main tecnologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=green)
 ![Git](https://img.shields.io/badge/GIT-eeeeee?style=for-the-badge&logo=git&logoColor=brown)
+![Express js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000)
 
 <details>
 <summary>Other tecnologies and tools</summary>
