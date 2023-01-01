@@ -1,94 +1,52 @@
-# E aí, tudo bem? Eu sou o Valdeci de Moura.
+### Hey I'm Valdeci de Moura, welcome to my profile. How you doing?
+
+## Take a look at my [portfolio](https://valdeci-moura.vercel.app/).
 
 <div align="center">
+  <span>Get in touch with me:</span>
+  <br/>
   <a href="https://www.linkedin.com/in/valdeci97" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="mailto:moura97.valdeci@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-  <a><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a>
+  <a href="mailto:moura97.valdeci@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" title="valdeci13.moura@gmail.com" /></a>
+  <a href="https://instagram.com/valdeci97" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" /></a>
 </div>
 
-##
+## Hello world!
 
-<details open>
-<summary>Sobre mim</summary>
+I'm 25 years old, I'm current living at Rio de Janeiro :brazil:.
 
-Sou brasileiro, moro no Rio de janeiro capital e desenvolvedor web full stack formado pela [Trybe](https://www.betrybe.com), curso com mais de 1500 horas de duração; atualmente estou cursando o módulo de ciência de computação também pela Trybe.
+I'm a full-stack developer graduated at [trybe](https://www.betrybe.com/) a course with more than 1500 hours covering frontend, backend and computer science modules.
 
-Números e tecnologia são minha paixão desde sempre, estou contantemente estudando e aprendendo coisas novas.
+Numbers and technology are my passion since always specially games, in constant learning.
 
-Atualmente estou trabalhando em meus próprios projetos para adquirir experiência e alimentar meu portfólio.
+I'm currently working on my own projects to improve my hard skills.
 
-##
-Principais Tecnologias
+## Main technologies
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=green)
-![Git](https://img.shields.io/badge/GIT-eeeeee?style=for-the-badge&logo=git&logoColor=brown)
-![Express js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="Yellow rectangle with 'JS'" title="Javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" alt="Blue rectangle with 'TS'" title="Typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" alt="Green hexagon with 'JS' inside" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" alt="Pentagon with '5' inside" title="HTML 5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px" alt="Pentagon with '3' inside" title="CSS 3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px" alt="Blue Rutherford's atomic model" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" alt="MySQL dolphin logo" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" alt="Leaf MongoDB logo" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" alt="Docker blue wale with containers at it's back" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50px" alt="Git logo" title="Git" />
+</div>
 
-<details>
-<summary>Outras tecnologias e feramentas</summary>
+## I'm learning
 
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-</details>
-
-</details>
-
-##
-
-<details>
-<summary>About me</summary>
-
-# Hey, I'm Valdeci de Moura. How you doing?
-
-I'm Brazilian, current living at Rio de Janeiro and a full-stack developer graduated from [Trybe](https://www.betrybe.com), a course with more than 1500 hours.
-
-Numbers and technology are my passion since always, in constant learning.
-
-I'm currently working on my own projects.
-
-##
-Main tecnologies
-
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=green)
-![Git](https://img.shields.io/badge/GIT-eeeeee?style=for-the-badge&logo=git&logoColor=brown)
-![Express js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000)
-
-<details>
-<summary>Other tecnologies and tools</summary>
-
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
-</details>
-
-</details>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" alt="Java logo" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" alt="Python logo" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="50px" alt="Svelte logo" title="Svelte" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px" alt="Angularjs" title="Angularjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px" alt="Circle with a leaf inside" title="Springboot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="50px" alt="Black elephant" title="Gradle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50px" alt="Pink lion" title="Nestjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" alt="Blue elephant's head" title="PostgreSQL" />
+</div>
 
 ##
 
@@ -96,12 +54,12 @@ Main tecnologies
   <a href="https://github.com/Valdeci97">
   <div>
     <img
-        height="150px"
-        width="45%"
+        height="200px"
+        width="49%"
         src="https://github-readme-stats.vercel.app/api?username=Valdeci97&show_icons=true&include_all_commits=false&count_private=true&theme=chartreuse-dark" />
     <img
-        height="150px"
+        height="200px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeci97&layout=compact&langs_count=16&theme=chartreuse-dark"
-        width="50%" />
+        width="49%" />
   </div>
 </div>
