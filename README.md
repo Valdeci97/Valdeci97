@@ -56,10 +56,10 @@ I'm currently working on my own projects to improve my hard skills.
     <img
         height="200px"
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=Valdeci97&show_icons=true&include_all_commits=false&count_private=true&theme=chartreuse-dark" />
+        src="https://github-readme-stats.vercel.app/api?username=valdeci97&show_icons=true&include_all_commits=false&count_private=true&theme=chartreuse-dark" />
     <img
         height="200px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeci97&layout=compact&langs_count=16&theme=chartreuse-dark"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdeci97&layout=compact&langs_count=16&theme=chartreuse-dark"
         width="49%" />
   </div>
 </div>
