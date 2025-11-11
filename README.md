@@ -12,7 +12,7 @@
 
 ## Hello world!
 
-I'm 25 years old, I'm current living at Rio de Janeiro :brazil:.
+I'm 28 years old, I'm current living at Rio de Janeiro :brazil:.
 
 I'm a full-stack developer graduated at [trybe](https://www.betrybe.com/) a course with more than 1500 hours covering frontend, backend and computer science modules.
 
